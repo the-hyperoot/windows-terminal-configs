@@ -3,10 +3,9 @@
 Install `oh-my-posh` from [here](https://ohmyposh.dev/docs/installation/windows)
 
 The themes folder will be located at `C:\Users\Rajes\AppData\Local\Programs\oh-my-posh\themes` 
-
-- hyper.omp.json
-    
-    ```json
+<details>
+<summary>hyper.omp.json</summary>
+```json
     {
       "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
       "blocks": [
@@ -99,5 +98,5 @@ The themes folder will be located at `C:\Users\Rajes\AppData\Local\Programs\oh-m
       "version": 2
     }
     ```
-    
--
+</details>
+
